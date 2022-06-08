@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">City Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repeat">Повторить</string>
+    <string name="exit">Выход</string>
+    <string name="capital_name">Столица</string>
+    <string name="country_name">Страна</string>
+    <string name="cities">Города</string>
+</resources>
